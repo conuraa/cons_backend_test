@@ -1,0 +1,16 @@
+# Testing framework
+pytest==8.0.0
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+pytest-httpx==0.28.0
+
+# HTTP mocking
+respx==0.20.2
+
+# Test utilities
+factory-boy==3.3.0
+faker==22.0.0
+aiosqlite==0.19.0
+
+# Async testing
+anyio==4.2.0

@@ -1,0 +1,2367 @@
+{
+"odata.metadata": "http://192.168.100.29:8888/int/rbd_sl_copy/odata/standard.odata/$metadata#Catalog_КатегорииВопросов",
+"value": [{
+"Ref_Key": "1c5e80f9-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7ck=",
+"DeletionMark": false,
+"Code": "000000005",
+"Description": "1С Deklarant/1C Декларант",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "1c5e80f9-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80f9-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80f9-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80f9-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1c5e80f9-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "1c5e80fa-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7co=",
+"DeletionMark": false,
+"Code": "000000006",
+"Description": "1С Deklarant/1C Декларант",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "1c5e80fa-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80fa-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80fa-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1c5e80fa-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1c5e80fa-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "1f6e44e7-1daa-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7cs=",
+"DeletionMark": false,
+"Code": "000000030",
+"Description": "Asosiy vosita",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "1f6e44e7-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1f6e44e7-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1f6e44e7-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1f6e44e7-1daa-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "6c9e204c-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7cw=",
+"DeletionMark": false,
+"Code": "000000012",
+"Description": "Bank",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "6c9e204c-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "6c9e204c-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "6c9e204c-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'6c9e204c-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "70503183-1daf-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7c0=",
+"DeletionMark": false,
+"Code": "000000038",
+"Description": "Boshliqqa hisobotlar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "70503183-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "70503183-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "70503183-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'70503183-1daf-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "47568f1d-1db4-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7c4=",
+"DeletionMark": false,
+"Code": "000000042",
+"Description": "Dastlabki qoldiqlarni  kiritish",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "47568f1d-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "47568f1d-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "47568f1d-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'47568f1d-1db4-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "0e1eb93d-7c55-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7c8=",
+"DeletionMark": false,
+"Code": "000000054",
+"Description": "Dasturni yangilash, bazani qo'shish",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "0e1eb93d-7c55-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0e1eb93d-7c55-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0e1eb93d-7c55-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0e1eb93d-7c55-11f0-b4ac-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'0e1eb93d-7c55-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "5e024919-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9OY=",
+"DeletionMark": false,
+"Code": "000000068",
+"Description": "Dibank",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'5e024919-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "7d8b66f8-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMIA=",
+"DeletionMark": false,
+"Code": "000000086",
+"Description": "Dibank",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'7d8b66f8-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "eadcd1ee-1da6-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dA=",
+"DeletionMark": false,
+"Code": "000000001",
+"Description": "Dibank/Дибанк",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "eadcd1ee-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ee-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ee-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ee-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'eadcd1ee-1da6-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "eadcd1ef-1da6-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dE=",
+"DeletionMark": false,
+"Code": "000000002",
+"Description": "Dibank/Дибанк",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "eadcd1ef-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ef-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ef-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eadcd1ef-1da6-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'eadcd1ef-1da6-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "857b2e87-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Oo=",
+"DeletionMark": false,
+"Code": "000000070",
+"Description": "Didox",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'857b2e87-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "8c9aba6d-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMI0=",
+"DeletionMark": false,
+"Code": "000000088",
+"Description": "Didox",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'8c9aba6d-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "0d154c8e-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dI=",
+"DeletionMark": false,
+"Code": "000000003",
+"Description": "Didox/Дидокс",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "0d154c8e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'0d154c8e-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "0d154c8f-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dM=",
+"DeletionMark": false,
+"Code": "000000004",
+"Description": "Didox/Дидокс",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "0d154c8f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0d154c8f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'0d154c8f-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "5da3d39c-1e4c-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dQ=",
+"DeletionMark": false,
+"Code": "000000044",
+"Description": "Dorixona",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "5da3d39c-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5da3d39c-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5da3d39c-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'5da3d39c-1e4c-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "7679285e-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dU=",
+"DeletionMark": false,
+"Code": "000000016",
+"Description": "Hisobdor shaxslar bilan hisob-kitoblar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "7679285e-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "7679285e-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "7679285e-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'7679285e-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "10a4c11f-1daa-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dY=",
+"DeletionMark": false,
+"Code": "000000028",
+"Description": "Ishlab chiqarish",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "10a4c11f-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "10a4c11f-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "10a4c11f-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'10a4c11f-1daa-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "255805ac-e927-11ef-b4a5-00155d64a501",
+"DataVersion": "AAAAAAlI7dc=",
+"DeletionMark": false,
+"Code": "000000048",
+"Description": "ITS shartnomasini uzaytirish",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "255805ac-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "255805ac-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "255805ac-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "255805ac-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'255805ac-e927-11ef-b4a5-00155d64a501')/Язык"
+},{
+"Ref_Key": "8de2cdef-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dg=",
+"DeletionMark": false,
+"Code": "000000018",
+"Description": "Kadrlar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "8de2cdef-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "8de2cdef-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "8de2cdef-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'8de2cdef-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "e1a3ec55-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dk=",
+"DeletionMark": false,
+"Code": "000000014",
+"Description": "Kassa",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "e1a3ec55-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "e1a3ec55-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "e1a3ec55-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'e1a3ec55-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "5477af05-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7do=",
+"DeletionMark": false,
+"Code": "000000010",
+"Description": "Kontragentlarni INN bo'yicha yuklash. Hodimlarni  JSHSHIR  bo'yicha yuklash. Valyutalar kursini",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "5477af05-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5477af05-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5477af05-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5477af05-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'5477af05-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "1b64ee8c-1db2-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7ds=",
+"DeletionMark": false,
+"Code": "000000040",
+"Description": "Ma'muriyat va sozlamalar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "1b64ee8c-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1b64ee8c-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1b64ee8c-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1b64ee8c-1db2-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "36fcbf6e-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7dw=",
+"DeletionMark": false,
+"Code": "000000008",
+"Description": "Markirovka",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "36fcbf6e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "36fcbf6e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "36fcbf6e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "36fcbf6e-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'36fcbf6e-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "4d633fed-1dac-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7d0=",
+"DeletionMark": false,
+"Code": "000000032",
+"Description": "Nomoddiy aktivlar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "4d633fed-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "4d633fed-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "4d633fed-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'4d633fed-1dac-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "fd60210e-1da9-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7d4=",
+"DeletionMark": false,
+"Code": "000000026",
+"Description": "Ombor",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "fd60210e-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "fd60210e-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "fd60210e-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'fd60210e-1da9-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "69923a9a-1dac-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7d8=",
+"DeletionMark": false,
+"Code": "000000034",
+"Description": "Operatsiyalar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "69923a9a-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "69923a9a-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "69923a9a-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'69923a9a-1dac-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "9d84e7a7-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7eA=",
+"DeletionMark": false,
+"Code": "000000020",
+"Description": "Oylik",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "9d84e7a7-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "9d84e7a7-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "9d84e7a7-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'9d84e7a7-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "303f58fa-2b25-11f0-b4a9-00155d64a501",
+"DataVersion": "AAAAAAlI7eE=",
+"DeletionMark": false,
+"Code": "000000049",
+"Description": "Soliq Servis/Soliq Servis",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "303f58fa-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "303f58fa-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "303f58fa-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "303f58fa-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'303f58fa-2b25-11f0-b4a9-00155d64a501')/Язык"
+},{
+"Ref_Key": "3656b5d4-2b25-11f0-b4a9-00155d64a501",
+"DataVersion": "AAAAAAlI7eI=",
+"DeletionMark": false,
+"Code": "000000050",
+"Description": "Soliq Servis/Soliq Servis",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "3656b5d4-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3656b5d4-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3656b5d4-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3656b5d4-2b25-11f0-b4a9-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'3656b5d4-2b25-11f0-b4a9-00155d64a501')/Язык"
+},{
+"Ref_Key": "ecd150cc-1da9-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7eM=",
+"DeletionMark": false,
+"Code": "000000024",
+"Description": "Sotish",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "ecd150cc-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "ecd150cc-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "ecd150cc-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'ecd150cc-1da9-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "db6cf67a-9512-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7eQ=",
+"DeletionMark": false,
+"Code": "000000058",
+"Description": "Universal hisobot",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "db6cf67a-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "db6cf67a-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "db6cf67a-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'db6cf67a-9512-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "14593b2b-7816-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7eU=",
+"DeletionMark": false,
+"Code": "000000052",
+"Description": "Venkon yordam markazi",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "14593b2b-7816-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "14593b2b-7816-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "14593b2b-7816-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "14593b2b-7816-11f0-b4ac-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'14593b2b-7816-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "b0528845-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7eY=",
+"DeletionMark": false,
+"Code": "000000022",
+"Description": "Xaridlar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "b0528845-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "b0528845-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "b0528845-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'b0528845-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "bc4cedbd-8fd0-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7ec=",
+"DeletionMark": false,
+"Code": "000000056",
+"Description": "Xatolar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "bc4cedbd-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "bc4cedbd-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "bc4cedbd-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'bc4cedbd-8fd0-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "53acd58e-1daf-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7eg=",
+"DeletionMark": false,
+"Code": "000000036",
+"Description": "Xisobotlar",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "53acd58e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "53acd58e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "53acd58e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'53acd58e-1daf-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "e5d4033c-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Pg=",
+"DeletionMark": false,
+"Code": "000000077",
+"Description": "Администрирование",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'e5d4033c-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "bab44f24-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJc=",
+"DeletionMark": false,
+"Code": "000000093",
+"Description": "Администрирование",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'bab44f24-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "154c6225-1db2-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7ek=",
+"DeletionMark": false,
+"Code": "000000039",
+"Description": "Администрирование и настройки",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "154c6225-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "154c6225-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "154c6225-1db2-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'154c6225-1db2-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "603026e1-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7eo=",
+"DeletionMark": false,
+"Code": "000000011",
+"Description": "Банк",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "603026e1-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "603026e1-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "603026e1-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'603026e1-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "4cf2d1ad-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9OQ=",
+"DeletionMark": false,
+"Code": "000000067",
+"Description": "Банк и касса",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'4cf2d1ad-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "76842739-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMH4=",
+"DeletionMark": false,
+"Code": "000000085",
+"Description": "Банк и касса",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'76842739-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "3c743d6a-1db4-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7es=",
+"DeletionMark": false,
+"Code": "000000041",
+"Description": "Ввод начальных остатков",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "3c743d6a-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3c743d6a-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3c743d6a-1db4-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'3c743d6a-1db4-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "35c94abd-fc44-11f0-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI7mM=",
+"DeletionMark": false,
+"Code": "000000059",
+"Description": "Дибанк (УК)",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "35c94abd-fc44-11f0-994a-e8ebd37a8b80",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "35c94abd-fc44-11f0-994a-e8ebd37a8b80",
+"LineNumber": "2",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'35c94abd-fc44-11f0-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "1d2b4bac-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9N4=",
+"DeletionMark": false,
+"Code": "000000064",
+"Description": "Договоры",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1d2b4bac-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "631b31e5-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMHo=",
+"DeletionMark": false,
+"Code": "000000083",
+"Description": "Договоры",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'631b31e5-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "3faeb44f-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7ew=",
+"DeletionMark": false,
+"Code": "000000009",
+"Description": "Загрузка Контрагентов по ИНН. Сотрудников по ПИНФЛ. Курсов валют",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "3faeb44f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3faeb44f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3faeb44f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "3faeb44f-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'3faeb44f-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "9df1b482-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9O4=",
+"DeletionMark": false,
+"Code": "000000072",
+"Description": "Закрытие месяца",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'9df1b482-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "9cdfada0-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJE=",
+"DeletionMark": false,
+"Code": "000000090",
+"Description": "Закрытие месяца",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'9cdfada0-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "2d9b8305-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9OA=",
+"DeletionMark": false,
+"Code": "000000065",
+"Description": "Закупка",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'2d9b8305-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "c281e605-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9PQ=",
+"DeletionMark": false,
+"Code": "000000075",
+"Description": "Зарплата",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'c281e605-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "af9d4aa5-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJU=",
+"DeletionMark": false,
+"Code": "000000092",
+"Description": "Зарплата",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'af9d4aa5-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "94809ec6-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7e0=",
+"DeletionMark": false,
+"Code": "000000019",
+"Description": "Зарплата",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "94809ec6-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "94809ec6-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "94809ec6-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'94809ec6-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "a9818d4c-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9PA=",
+"DeletionMark": false,
+"Code": "000000073",
+"Description": "Интеркампани",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'a9818d4c-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "a663cae7-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJM=",
+"DeletionMark": false,
+"Code": "000000091",
+"Description": "Интеркампани",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'a663cae7-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "8071a3ad-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7e4=",
+"DeletionMark": false,
+"Code": "000000017",
+"Description": "Кадры",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "8071a3ad-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "8071a3ad-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "8071a3ad-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'8071a3ad-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "d8b72190-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7e8=",
+"DeletionMark": false,
+"Code": "000000013",
+"Description": "Касса",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "d8b72190-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "d8b72190-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "d8b72190-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'd8b72190-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "0e330351-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9NA=",
+"DeletionMark": false,
+"Code": "000000063",
+"Description": "Контрагенты (клиенты, поставщики, прочие)",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'0e330351-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "4624aa47-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMHg=",
+"DeletionMark": false,
+"Code": "000000082",
+"Description": "Контрагенты (клиенты, поставщики, прочие)",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'4624aa47-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "fee32cd8-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Pw=",
+"DeletionMark": false,
+"Code": "000000079",
+"Description": "Маркировка",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'fee32cd8-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "ccb2072f-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJs=",
+"DeletionMark": false,
+"Code": "000000095",
+"Description": "Маркировка",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'ccb2072f-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "29d8dfd6-1da7-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fA=",
+"DeletionMark": false,
+"Code": "000000007",
+"Description": "Маркировка",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "29d8dfd6-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "29d8dfd6-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "29d8dfd6-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "29d8dfd6-1da7-11ef-b49b-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'29d8dfd6-1da7-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "28ce96ea-1e71-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fE=",
+"DeletionMark": false,
+"Code": "000000045",
+"Description": "МСФО/MSFO",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "28ce96ea-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "28ce96ea-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "28ce96ea-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'28ce96ea-1e71-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "28ce96eb-1e71-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fI=",
+"DeletionMark": false,
+"Code": "000000046",
+"Description": "МСФО/MSFO",
+"Язык_Key": "15d38cdb-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "28ce96eb-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "28ce96eb-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "28ce96eb-1e71-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'28ce96eb-1e71-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "def285ab-0258-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9M0=",
+"DeletionMark": false,
+"Code": "000000061",
+"Description": "Начальные/общие настройки",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'def285ab-0258-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "2325190c-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMHQ=",
+"DeletionMark": false,
+"Code": "000000080",
+"Description": "Начальные/общие настройки",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'2325190c-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "412b1fc4-1dac-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fM=",
+"DeletionMark": false,
+"Code": "000000031",
+"Description": "НМА",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "412b1fc4-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "412b1fc4-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "412b1fc4-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'412b1fc4-1dac-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "f832ec85-0258-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9M4=",
+"DeletionMark": false,
+"Code": "000000062",
+"Description": "Номенклатура",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'f832ec85-0258-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "35b3307c-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMHY=",
+"DeletionMark": false,
+"Code": "000000081",
+"Description": "Номенклатура",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'35b3307c-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "fac51743-7c54-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7fQ=",
+"DeletionMark": false,
+"Code": "000000053",
+"Description": "Обновление, добавление базы",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "fac51743-7c54-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "fac51743-7c54-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "fac51743-7c54-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "fac51743-7c54-11f0-b4ac-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'fac51743-7c54-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "5f88b542-1dac-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fU=",
+"DeletionMark": false,
+"Code": "000000033",
+"Description": "Операции",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "5f88b542-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5f88b542-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5f88b542-1dac-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'5f88b542-1dac-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "1849970a-1daa-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fY=",
+"DeletionMark": false,
+"Code": "000000029",
+"Description": "ОС",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "1849970a-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1849970a-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "1849970a-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'1849970a-1daa-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "4959f82e-1daf-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fc=",
+"DeletionMark": false,
+"Code": "000000035",
+"Description": "Отчеты",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "4959f82e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "4959f82e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "4959f82e-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'4959f82e-1daf-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "b9250bf7-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9PI=",
+"DeletionMark": false,
+"Code": "000000074",
+"Description": "Отчеты компании",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'b9250bf7-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "67994c88-1daf-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fg=",
+"DeletionMark": false,
+"Code": "000000037",
+"Description": "Отчеты руководителю",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "67994c88-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "67994c88-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "67994c88-1daf-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'67994c88-1daf-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "aef2195b-8fd0-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7fk=",
+"DeletionMark": false,
+"Code": "000000055",
+"Description": "Ошибки",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "aef2195b-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "aef2195b-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "aef2195b-8fd0-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'aef2195b-8fd0-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "a63150c2-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fo=",
+"DeletionMark": false,
+"Code": "000000021",
+"Description": "Покупки",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "a63150c2-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "a63150c2-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "a63150c2-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'a63150c2-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "dae39034-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9PY=",
+"DeletionMark": false,
+"Code": "000000076",
+"Description": "Продажа услуг",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'dae39034-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "752e6085-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Og=",
+"DeletionMark": false,
+"Code": "000000069",
+"Description": "Продажи",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'752e6085-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "849a44d7-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMII=",
+"DeletionMark": false,
+"Code": "000000087",
+"Description": "Продажи",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'849a44d7-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "e3a57eee-1da9-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7fs=",
+"DeletionMark": false,
+"Code": "000000023",
+"Description": "Продажи",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "e3a57eee-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "e3a57eee-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "e3a57eee-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'e3a57eee-1da9-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "0720db12-e927-11ef-b4a5-00155d64a501",
+"DataVersion": "AAAAAAlI7fw=",
+"DeletionMark": false,
+"Code": "000000047",
+"Description": "Продление договора ИТС",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "0720db12-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0720db12-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0720db12-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "0720db12-e927-11ef-b4a5-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'0720db12-e927-11ef-b4a5-00155d64a501')/Язык"
+},{
+"Ref_Key": "3fa0704e-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9OI=",
+"DeletionMark": false,
+"Code": "000000066",
+"Description": "Производство",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'3fa0704e-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "05fffd07-1daa-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7f0=",
+"DeletionMark": false,
+"Code": "000000027",
+"Description": "Производство",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "05fffd07-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "05fffd07-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "05fffd07-1daa-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'05fffd07-1daa-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "6d37bc67-1da8-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7f4=",
+"DeletionMark": false,
+"Code": "000000015",
+"Description": "Расчеты с подотчетными лицами",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "6d37bc67-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "6d37bc67-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "6d37bc67-1da8-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'6d37bc67-1da8-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "f01453e0-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Po=",
+"DeletionMark": false,
+"Code": "000000078",
+"Description": "Розничные продажи",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'f01453e0-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "c2d6a8ba-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMJk=",
+"DeletionMark": false,
+"Code": "000000094",
+"Description": "Розничные продажи",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'c2d6a8ba-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "92af1806-0259-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Ow=",
+"DeletionMark": false,
+"Code": "000000071",
+"Description": "Синхронизации с 1С: Бухгалтерия 3.0",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'92af1806-0259-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "9580d0ef-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMI8=",
+"DeletionMark": false,
+"Code": "000000089",
+"Description": "Синхронизации с 1С: Бухгалтерия 3.0",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'9580d0ef-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "99419b1b-0258-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAlI9Mk=",
+"DeletionMark": false,
+"Code": "000000060",
+"Description": "Склад",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "УправлениеКомпаниейДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'99419b1b-0258-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "6e46bf2a-07dd-11f1-994a-e8ebd37a8b80",
+"DataVersion": "AAAAAAmJMHw=",
+"DeletionMark": false,
+"Code": "000000084",
+"Description": "Склад",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "РозницаДляУзбекистана",
+"СписокПодписок": [],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'6e46bf2a-07dd-11f1-994a-e8ebd37a8b80')/Язык"
+},{
+"Ref_Key": "f4b6bb7b-1da9-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7f8=",
+"DeletionMark": false,
+"Code": "000000025",
+"Description": "Склад",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "f4b6bb7b-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "f4b6bb7b-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "f4b6bb7b-1da9-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'f4b6bb7b-1da9-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "d5515e94-9512-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7gE=",
+"DeletionMark": false,
+"Code": "000000057",
+"Description": "Универсальный отчет",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "d5515e94-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "d5515e94-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "d5515e94-9512-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'd5515e94-9512-11f0-b4ac-00155d64a501')/Язык"
+},{
+"Ref_Key": "5da3d39b-1e4c-11ef-b49b-00155d64a501",
+"DataVersion": "AAAAAAlI7gI=",
+"DeletionMark": false,
+"Code": "000000043",
+"Description": "Фарм. модуль",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "5da3d39b-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5da3d39b-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "5da3d39b-1e4c-11ef-b49b-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'5da3d39b-1e4c-11ef-b49b-00155d64a501')/Язык"
+},{
+"Ref_Key": "eef5462b-7815-11f0-b4ac-00155d64a501",
+"DataVersion": "AAAAAAlI7gM=",
+"DeletionMark": false,
+"Code": "000000051",
+"Description": "Центр поддержки Venkon",
+"Язык_Key": "15d38cda-1812-11ef-b824-c67597d01fa8",
+"Программа": "БухгалтерияПредриятияДляУзбекистана",
+"СписокПодписок": [
+{
+"Ref_Key": "eef5462b-7815-11f0-b4ac-00155d64a501",
+"LineNumber": "1",
+"ВидПодписки_Key": "ce07e6ae-7070-11e3-a020-14dae99c60ce",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eef5462b-7815-11f0-b4ac-00155d64a501",
+"LineNumber": "2",
+"ВидПодписки_Key": "5cf0ceb2-95d8-11eb-938d-00e04cd03b68",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eef5462b-7815-11f0-b4ac-00155d64a501",
+"LineNumber": "3",
+"ВидПодписки_Key": "ae90695b-8355-11ee-b824-c67597d01fa8",
+"КатегорияДоступна": true
+},
+{
+"Ref_Key": "eef5462b-7815-11f0-b4ac-00155d64a501",
+"LineNumber": "4",
+"ВидПодписки_Key": "a7a35502-59da-11ec-b820-d91fe24a49ac",
+"КатегорияДоступна": true
+}
+],
+"Predefined": false,
+"PredefinedDataName": "",
+"Язык@navigationLinkUrl": "Catalog_КатегорииВопросов(guid'eef5462b-7815-11f0-b4ac-00155d64a501')/Язык"
+}]
+}

@@ -1,0 +1,125 @@
+# ==================================
+# Environment and Secrets
+# ==================================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.crt
+
+# ==================================
+# Python
+# ==================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# ==================================
+# Virtual Environments
+# ==================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==================================
+# FastAPI and Application Runtime
+# ==================================
+FastAPI/logs/
+*.db
+*.sqlite
+*.sqlite3
+
+# ==================================
+# Logs
+# ==================================
+*.log
+logs/
+*.log.*
+
+# ==================================
+# IDE and Editors
+# ==================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Other editors
+.swp
+.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+
+# ==================================
+# OS Files
+# ==================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+Thumbs.db
+
+# ==================================
+# Database
+# ==================================
+*.sql
+!schema.sql
+
+# ==================================
+# Backups and Temporary Files
+# ==================================
+*.backup
+*.bak
+*.tar.gz
+*.zip
+backups/
+tmp/
+temp/
+*.tmp
+
+# ==================================
+# Cursor IDE
+# ==================================
+.cursor/
+
+# ==================================
+# Poetry and dependency locks
+# ==================================
+poetry.lock
+Pipfile.lock
