@@ -19,9 +19,6 @@ jobs:
     name: Deploy to Dev Server
     runs-on: ubuntu-latest
     environment: development
-    permissions:
-      contents: read
-      packages: read
 
     steps:
       - uses: actions/checkout@v4
@@ -45,7 +42,8 @@ jobs:
             set -e
 
             IMAGE="${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.tag.outputs.tag }}"
-            CONTAINER_NAME="cons_api"
+            DEPLOY_DIR="$HOME/cons_backend_test"
+            CONTAINER_NAME="cons_api_test"
 
             echo "=== Deploying $IMAGE ==="
 
@@ -57,50 +55,37 @@ jobs:
             echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
             docker pull "$IMAGE"
 
-            # Stop and update
-            cd /home/sada/cons_backend/FastAPI/
-
-            # Update image in compose override
-            echo "services:" > docker-compose.override.yml
-            echo "  cons_api:" >> docker-compose.override.yml
-            echo "    image: $IMAGE" >> docker-compose.override.yml
-            echo "  cons_scheduler:" >> docker-compose.override.yml
-            echo "    image: $IMAGE" >> docker-compose.override.yml
-
-            docker compose up -d --no-build
+            # Deploy
+            cd "$DEPLOY_DIR"
+            docker compose up -d
 
             # Health check
             echo "Waiting for health check..."
             sleep 10
 
-            if curl -sf http://localhost:7070/health > /dev/null 2>&1; then
+            HEALTH_OK=false
+            for i in 1 2 3; do
+              if curl -sf http://localhost:7071/health > /dev/null 2>&1; then
+                HEALTH_OK=true
+                break
+              fi
+              echo "Health check attempt $i failed, retrying..."
+              sleep 5
+            done
+
+            if [ "$HEALTH_OK" = "true" ]; then
               echo "=== Deploy successful ==="
             else
               echo "=== Health check failed! Rolling back ==="
               if [ "$CURRENT_IMAGE" != "none" ]; then
-                echo "services:" > docker-compose.override.yml
-                echo "  cons_api:" >> docker-compose.override.yml
-                echo "    image: $CURRENT_IMAGE" >> docker-compose.override.yml
-                echo "  cons_scheduler:" >> docker-compose.override.yml
-                echo "    image: $CURRENT_IMAGE" >> docker-compose.override.yml
-                docker compose up -d --no-build
+                docker compose down
+                # Restore previous image
+                sed -i "s|image:.*|image: $CURRENT_IMAGE|" docker-compose.yml
+                docker compose up -d
                 echo "=== Rolled back to $CURRENT_IMAGE ==="
+              else
+                docker compose down
+                echo "=== No previous image to rollback to, stopped container ==="
               fi
               exit 1
             fi
-
-      - name: Notify Telegram
-        if: always()
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TELEGRAM_CHAT_ID }}
-          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          format: markdown
-          message: |
-            *Deploy ${{ job.status == 'success' && '✅' || '❌' }}*
-
-            Repository: `${{ github.repository }}`
-            Branch: `${{ github.ref_name }}`
-            Commit: `${{ github.sha }}`
-            Author: ${{ github.actor }}
-            Status: *${{ job.status }}*
