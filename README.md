@@ -171,4 +171,3 @@ alembic upgrade head
 - SQLAlchemy 2.0+ (async)
 - Pydantic 2.5+
 
-# test
