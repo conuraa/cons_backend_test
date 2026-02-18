@@ -1,0 +1,23 @@
+# Ruff configuration for cons_backend
+# Phase 1: Syntax-only checks, will tighten over time
+target-version = "py311"
+line-length = 120
+exclude = [
+    "FastAPI/alembic/versions/",
+    "apply_all.py",
+    "patch_*.py",
+    "sync_*.py",
+]
+
+[lint]
+# Critical errors only: syntax errors, invalid f-strings, assert on tuples
+select = ["E9", "F63", "F7"]
+ignore = []
+
+[lint.per-file-ignores]
+"__init__.py" = ["F"]
+"tests/**" = ["F"]
+
+[format]
+quote-style = "double"
+indent-style = "space"
