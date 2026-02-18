@@ -1,0 +1,106 @@
+name: Deploy to Dev
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      image_tag:
+        description: "Docker image tag to deploy (default: latest)"
+        required: false
+        default: "latest"
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  deploy:
+    name: Deploy to Dev Server
+    runs-on: ubuntu-latest
+    environment: development
+    permissions:
+      contents: read
+      packages: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set image tag
+        id: tag
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "tag=${{ github.event.inputs.image_tag }}" >> $GITHUB_OUTPUT
+          else
+            echo "tag=latest" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Deploy to server
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DEV_SERVER_HOST }}
+          username: ${{ secrets.DEV_SERVER_USER }}
+          key: ${{ secrets.DEV_SERVER_SSH_KEY }}
+          script: |
+            set -e
+
+            IMAGE="${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ steps.tag.outputs.tag }}"
+            CONTAINER_NAME="cons_api"
+
+            echo "=== Deploying $IMAGE ==="
+
+            # Save current image for rollback
+            CURRENT_IMAGE=$(docker inspect --format='{{.Config.Image}}' $CONTAINER_NAME 2>/dev/null || echo "none")
+            echo "Current image: $CURRENT_IMAGE"
+
+            # Pull new image
+            echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+            docker pull "$IMAGE"
+
+            # Stop and update
+            cd /home/sada/cons_backend/FastAPI/
+
+            # Update image in compose override
+            echo "services:" > docker-compose.override.yml
+            echo "  cons_api:" >> docker-compose.override.yml
+            echo "    image: $IMAGE" >> docker-compose.override.yml
+            echo "  cons_scheduler:" >> docker-compose.override.yml
+            echo "    image: $IMAGE" >> docker-compose.override.yml
+
+            docker compose up -d --no-build
+
+            # Health check
+            echo "Waiting for health check..."
+            sleep 10
+
+            if curl -sf http://localhost:7070/health > /dev/null 2>&1; then
+              echo "=== Deploy successful ==="
+            else
+              echo "=== Health check failed! Rolling back ==="
+              if [ "$CURRENT_IMAGE" != "none" ]; then
+                echo "services:" > docker-compose.override.yml
+                echo "  cons_api:" >> docker-compose.override.yml
+                echo "    image: $CURRENT_IMAGE" >> docker-compose.override.yml
+                echo "  cons_scheduler:" >> docker-compose.override.yml
+                echo "    image: $CURRENT_IMAGE" >> docker-compose.override.yml
+                docker compose up -d --no-build
+                echo "=== Rolled back to $CURRENT_IMAGE ==="
+              fi
+              exit 1
+            fi
+
+      - name: Notify Telegram
+        if: always()
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          format: markdown
+          message: |
+            *Deploy ${{ job.status == 'success' && '✅' || '❌' }}*
+
+            Repository: `${{ github.repository }}`
+            Branch: `${{ github.ref_name }}`
+            Commit: `${{ github.sha }}`
+            Author: ${{ github.actor }}
+            Status: *${{ job.status }}*
